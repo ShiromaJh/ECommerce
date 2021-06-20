@@ -6,6 +6,9 @@ Ecommerce Back End## Table of Contents:
 * [Contributing](#contributing)
 * [Tests](#tests)
 * [Questions](#questions)
+
+![picture](https://github.com/shiromajh.png?size=80)
+
 ### Installation:
 My Ecommerce Back End application will allow the user to view the raw, dummy, data using insomnia. 
 ### Usage:
@@ -21,5 +24,5 @@ npm test
 ### Questions:
 If you have any questions contact me on [GitHub](https://github.com/shiromajh) or contact 
 me at justinhoffman193@gmail.copm
-![picture](https://github.com/shiromajh.png?size=80)
+
     
